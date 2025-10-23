@@ -1,0 +1,5 @@
+Hello Server,
+This is a test message from the UDP client.
+
+We are testing file transfer using sockets.
+If you receive this file completely, the system works!
